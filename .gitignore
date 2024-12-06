@@ -1,3 +1,4 @@
 *.pyc
 __pycache__/
 /output/
+.ipynb_checkpoints/cycleGan-checkpoint.ipynb
